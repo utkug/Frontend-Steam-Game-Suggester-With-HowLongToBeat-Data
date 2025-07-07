@@ -21,7 +21,7 @@ function SuggestionGameCard(gameProps: any) {
     metacriticScore,
     name,
     playtime_forever,
-  } = gameProps.gameProp
+  } = gameProps.gameProps
 
   const { isFirst } = gameProps
   const { colorScheme } = useMantineColorScheme()
