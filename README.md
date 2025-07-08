@@ -33,7 +33,14 @@ npm run dev
 > You can find the backend repository here: [Steam Game Suggester Backend]
 
 ## 📸 Screenshots
-
+Home Page
+![localhost_5173_home](https://github.com/user-attachments/assets/2fa2a269-3f9e-4416-878f-b382d5819d6d)
+Game Suggestion Page
+![Ekran görüntüsü 2025-07-07 202612](https://github.com/user-attachments/assets/5613fe08-d9c5-4bbb-ba9a-1ad80d2e9567)
+![Ekran görüntüsü 2025-07-07 202626](https://github.com/user-attachments/assets/84b4c436-ec3a-46dc-8965-5dad13ecbf36)
+Also you can see supported languages
+![localhost_5173_suggest_utkuug](https://github.com/user-attachments/assets/345885d7-b506-4b2f-8d17-7f1733ed3a80)
+![localhost_5173_suggest_utkuug (1)](https://github.com/user-attachments/assets/a1a52c7e-b6c7-4425-9a56-7dfdedb79f12)
 ## 🛠️ Built With
 * React
 * TypeScript
