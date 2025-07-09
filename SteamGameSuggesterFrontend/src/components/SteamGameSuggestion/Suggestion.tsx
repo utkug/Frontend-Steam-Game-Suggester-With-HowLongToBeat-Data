@@ -55,7 +55,7 @@ function Suggestion() {
   )
   
 useEffect(() => {
-  const es = new EventSource(`http://localhost:3000/howlong/${steamId}`);
+  const es = new EventSource(`http://localhost:3000/getUserGamesWithHours/${steamId}`);
 
   showSseNotification() // when starts
 
