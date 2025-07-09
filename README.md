@@ -1,6 +1,8 @@
 # 🎮 Steam Game Suggester - Frontend
 
-This is the **frontend** of the Steam Game Suggester project. It allows users to get personalized game recommendations based on their Steam profile. Users enter their Steam ID, and the app analyzes their game library and displays relevant suggestions with advanced filtering options.
+This is the **frontend** of the Steam Game Suggester project. It allows users to get personalized game recommendations based on their public Steam profile.
+After entering a Steam ID, the app fetches the user's game library, enriches each game with estimated playtimes from HowLongToBeat, and displays them.
+Users can easily filter and sort suggestions by playtime, genres, hours played, popularity, and more — helping them choose the right game for their time.
 
 > 📦 Looking for the backend?  
 👉 Check out the frontend repo here: [Steam Game Suggestion - Backend](https://github.com/utkug/SteamGameSuggesterBackend)
