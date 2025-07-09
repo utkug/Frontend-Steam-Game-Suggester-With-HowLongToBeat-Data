@@ -5,7 +5,7 @@ After entering a Steam ID, the app fetches the user's game library, enriches eac
 Users can easily filter and sort suggestions by playtime, genres, hours played, popularity, and more — helping them choose the right game for their time.
 
 > 📦 Looking for the backend?  
-👉 Check out the frontend repo here: [Steam Game Suggestion - Backend](https://github.com/utkug/SteamGameSuggesterBackend)
+👉 Check out the backend repo here: [Steam Game Suggestion - Backend](https://github.com/utkug/SteamGameSuggesterBackend)
 
 ## ✨ Features
 
